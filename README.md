@@ -6,8 +6,12 @@ This project is worth 12% of your grade in CTEC 127
 ## Project Overview
 - This project will have you develop a 2 page PHP based web site.
 - Both of the pages will have identical header and footer content. Use PHP's **require** for this.
+
+==>
 - The content of the first page will contain the instructions on how to control the page content using **URL query string parameters**.
 - The second page will be the page that uses the query string parameters to render dynamic content on the page.
+
+
 - You are to provide 7 different parameters and values that a user can enter to render different items on the page such as text, images, CSS styles, etc. Use your creativity here. This project will help you learn and understand how powerful query strings are.
 - CSS goes in the CSS folder.
 - Create an img folder to store any images in.
